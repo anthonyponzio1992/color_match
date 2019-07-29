@@ -1,0 +1,13 @@
+.board {
+  height: 400px;
+  width: 400px;
+  /* background-color: grey; */
+  /* border: 1px solid black; */
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: space-between;
+  vertical-align: middle;
+  margin: 0 auto;
+}

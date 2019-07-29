@@ -1,0 +1,7 @@
+.tile {
+  height: 90px;
+  width: 90px;
+  margin: 0;
+  padding: 0;
+  transition: background-color .3s ease-in-out;
+}
